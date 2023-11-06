@@ -1,0 +1,11 @@
+{
+  "name": "desafio-entregable",
+  "version": "1.0.0",
+  "description": "Mocking y manejo de errores.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
+  "author": "Franco Garay Benitez",
+  "license": "ISC"
+}
