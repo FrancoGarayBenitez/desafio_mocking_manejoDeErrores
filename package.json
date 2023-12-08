@@ -7,5 +7,9 @@
     "start": "nodemon src/app.js"
   },
   "author": "Franco Garay Benitez",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.3.1",
+    "express": "^4.18.2"
+  }
 }
